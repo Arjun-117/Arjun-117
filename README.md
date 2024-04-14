@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python 
 - 📫 How to reach me: mallikarjunamalli11761@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: Sky is blue
+- ⚡ Fun fact: Sky is blue..
 
